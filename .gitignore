@@ -3,3 +3,4 @@ __pycache__/
 .vscode/
 *.pyc
 uv.lock
+main.py
